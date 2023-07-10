@@ -5,7 +5,7 @@ public class PresentOnce {
     // 50 appears only once
     public static void main(String[] args) {
 
-        int[] arr = {10, 20, 10, 20, 30, 40, 40, 30, 50 };
+        int[] arr = {10, 20, 10, 20, 30, 40, 40, 30, 50};
 
         int temp = 0;
         for(int x : arr){
